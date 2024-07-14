@@ -52,7 +52,7 @@ Whether you're a beginner looking to understand the basics or an advanced practi
 ---
 ### 🛠️ Notebooks
 
-- **[Notebook 1: Data,Model Building,traning and Result](notebooks/Data_Exploration.ipynb)**: Analyzes the dataset and visualizes the images.
+- **[Notebook: Dogs-VS-Cat_ImageClassifierCNN](notebooks/Dogs-VS-Cat_ImageClassifierCNN.ipynb)**: Analyzes the dataset and visualizes the images.
 
 ---
 
@@ -62,7 +62,7 @@ To explore the notebooks, follow these steps:
 
 1. **Open the Notebooks**: Navigate to the notebooks folder and open the desired notebook in Jupyter.
    ```bash
-   jupyter notebook notebooks/
+   jupyter notebook notebook/Dogs-VS-Cat_ImageClassifierCNN.ipynb
 
 ---
 
