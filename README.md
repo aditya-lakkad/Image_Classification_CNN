@@ -63,3 +63,24 @@ To explore the notebooks, follow these steps:
 1. **Open the Notebooks**: Navigate to the notebooks folder and open the desired notebook in Jupyter.
    ```bash
    jupyter notebook notebooks/
+
+---
+
+### 🤝 Contirubuting
+
+If you would like to contribute, feel free to fork the repository and submit a pull request!
+
+---
+### 🤝 License
+
+This project is licensed under the MIT License. Feel free to use and share!
+
+---
+
+### 🤝 Contact
+
+- Email:- lakkadaditya@gmail.com
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
+</p>
